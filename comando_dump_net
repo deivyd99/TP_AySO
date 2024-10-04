@@ -1,0 +1,2 @@
+Para hacer un dump traffic se usa el comando tcpdump.
+-w (archivo): hace que un archivo pueda ser analñizada mas tarde
